@@ -8,7 +8,7 @@
 
 # DISCLAIMER
 
-***This bot is not created nor endorsed by WhatsApp. Your account might be banned. Be careful not to cause spam***
+***This bot is not created nor endorsed by WhatsApp. Your account might be banned. Be careful not to cause spam and overusing it***
 
 ## FEATURES
 This is a simple whatsapp bot with group management features and some media commands as well as AI.
