@@ -1,6 +1,5 @@
 {
-  "name": "BUDHA_MD",
-
+  "name": "DREADED BOT",
   "description": "This is a simple whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -17,7 +16,7 @@
   ],
   "website": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI#readme",
   "repository": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI.git",
-  "logo": "https://telegra.ph/file/6238d670a279057951ba5.jpg",
+  "logo": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
   "success_url": "/",
   "env": {
        "PREFIX":
@@ -37,7 +36,7 @@
  "MENULINK":
     {
       "description":"Put an image link that will be used in picture menu.",
-      "value": "https://telegra.ph/file/6238d670a279057951ba5.jpg",
+      "value": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
       "required":false
     },
 
@@ -66,7 +65,7 @@
       "description": "Put a message that the bot will send if a parameter that requires only owner user is violated. Example: Only admins are allowed to use this command",
       "required": false
     },
-    "BAD_WORD": { shit,fuck, pussy,hoe
+    "BAD_WORD": {
       "description": "List words separated witj commas that will be considered as bad and will trigger bot to kick. Example: fuck, pussy, hoe",
       "required": false
     },
@@ -142,7 +141,7 @@
       "description": "Type TRUE if you want bot to automatically read all status update",
       "required": false
     },
-"AUTOBIO": { TRUE
+"AUTOBIO": {
       "description": "Type TRUE if you want bot to show autoupdate it's bio constantly",
       "required": false
     },
@@ -155,7 +154,7 @@
       "required": true
     },
 
-"COUNTRY_CODE": { 254
+"COUNTRY_CODE": {
       "description": "Enter your country code without +. Example: 254 for Kenya. This will allow bot to detect and remove foreigners if commanded",
       "required": true
     },
@@ -193,4 +192,3 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
   ]
-    }
